@@ -1,0 +1,29 @@
+@media screen and (max-width: 860px) {
+.flex-caption {
+    position: absolute !important;
+    bottom: 156px !important;
+    left:39px !important;
+    color: #fff !important;
+    font-size: xx-large !important;
+    background:#000 !important;
+
+}
+
+.btn {
+    border: none !important;
+    color: white !important;
+    padding: 14px 28px !important;
+    font-size: 16px !important;
+    cursor: pointer !important;
+}
+.info {
+     position: absolute !important;
+     background-color: #2196F3 !important;
+     left:1056px !important;
+}
+
+.info:hover {
+         background: #0b7dda !important;
+}
+
+}
