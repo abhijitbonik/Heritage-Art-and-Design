@@ -764,7 +764,7 @@ $settings['file_scan_ignore_directories'] = [
 #   include $app_root . '/' . $site_path . '/settings.local.php';
 # }
 $databases['default']['default'] = array (
-  'database' => 'had',
+  'database' => 'iitbsynergy',
   'username' => 'root',
   'password' => 'root',
   'prefix' => '',
